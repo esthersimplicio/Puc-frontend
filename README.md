@@ -31,5 +31,5 @@ cd controlvet-frontend
 - Para editar as informações de um paciente, clique no botão "Editar" correspondente ao paciente desejado. Isso abrirá o modal de edição, onde você pode atualizar os detalhes do paciente.
 - Para excluir um paciente, clique no botão "Excluir" correspondente ao paciente desejado. Será exibida uma confirmação antes de excluir o paciente.
 
-## Observações:
+## Observação
 Certifique-se que o ambiente backend esteja em execução. 
